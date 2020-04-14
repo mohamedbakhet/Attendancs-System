@@ -50,5 +50,17 @@ namespace AttendanceSystem
                 MessageBox.Show("Login error","Please check from name or password");
             }
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int tmp = int.Parse(class_txt.Text);
+            DB.Register(Rname_txt.Text,Rpassword_txt.Text,Remail_txt.Text,tmp);
+            MessageBox.Show("Done");
+        }
     }
 }

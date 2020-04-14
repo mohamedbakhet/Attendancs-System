@@ -51,6 +51,18 @@ namespace AttendanceSystem
             }
 
         }
+        public void Register(string name, string password,string email,int classNum)
+        {
+            OracleCommand command = new OracleCommand();
+            command.Connection = connection;
+            command.CommandText = "REGISTERP";
+            command.CommandType = CommandType.StoredProcedure;
+            command.Parameters.Add("name", name);
+            command.Parameters.Add("password", password);
+            command.Parameters.Add("email", email);
+            command.Parameters.Add("classNumber", classNum);
+            command.ExecuteNonQuery();
+        }
         public user getUser() {
             return unknown;
         }
