@@ -1,0 +1,15 @@
+D:\Material\project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.exe.config
+D:\Material\project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.exe
+D:\Material\project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.pdb
+D:\Material\project\AttendanceSystem\AttendanceSystem\bin\Debug\Oracle.DataAccess.dll
+D:\Material\project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csprojAssemblyReference.cache
+D:\Material\project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.Form1.resources
+D:\Material\project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.Properties.Resources.resources
+D:\Material\project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.GenerateResource.cache
+D:\Material\project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.CopyComplete
+D:\Material\project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.exe
+D:\Material\project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.pdb
+D:\Material\project\AttendanceSystem\AttendanceSystem\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Material\project\AttendanceSystem\AttendanceSystem\bin\Debug\System.IO.Packaging.dll
+D:\Material\project\AttendanceSystem\AttendanceSystem\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Material\project\AttendanceSystem\AttendanceSystem\bin\Debug\System.IO.Packaging.xml
